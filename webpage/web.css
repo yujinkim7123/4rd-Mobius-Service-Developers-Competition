@@ -1,0 +1,91 @@
+
+#bg{
+
+    width:0px;
+    margin:auto;
+
+}
+
+#bg #bg1{
+    position: absolute; 
+    top:0; 
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+#ch{
+
+    position: absolute; 
+    left: 35%;
+    top:  40%;
+    width: 30%;
+    height: 50%;
+
+  }
+
+#p{
+    position: absolute; 
+    left: 10%;
+    width: 80%;
+}
+
+#c{
+    position: absolute;
+    left: 5%;
+    top:  10%;
+    width: 5%;
+    height: 15%;
+
+}
+#c2{
+    position: absolute;
+    left: 5%;
+    top:  30%;
+    width: 5%;
+    height: 15%;
+
+}
+#c3{
+    position: absolute;
+    left: 5%;
+    top:  50%;
+    width: 5%;
+    height: 15%;
+
+}
+
+#c4{
+
+    position: absolute;
+    left: 5%;
+    top:  50%;
+    width: 5%;
+    height: 15%;
+
+}
+
+.button1 {
+position: absolute; 
+top: 90%; 
+left: 25%;
+width: 10%;
+height:  9%;
+}	
+
+.button2 {
+    position: absolute; 
+    top: 90%; 
+    left: 45%;
+    width:  10%;
+    height:  9%;
+    }	
+
+    .button3 {
+        position: absolute; 
+        top: 90%; 
+        left: 65%;
+        width: 10%;
+        height: 9%;
+    }
+

@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">LifeFriends</string>
+
+    <string name="cse_addr">203.253.128.161</string>
+    <string name="cse_port">7579</string>
+    <string name="mqtt_port">1883</string>
+    <string name="cse_name">Mobius</string>
+    <string name="ae_name">LifeFriends</string>
+    <string name="ae_id">aei</string>
+
+    <string name="alarmOff">Alarm Off</string>
+
+
+    <string name="state_description_eat">부모와 함께 식사하는 시간을 통해 모범적인 식사 모습을 보여주세요 \n 영양도 중요하지만 가장 중요한 것은 즐거운 식사 자리입니다.</string>
+    <string name="alarmSet_description">아이의 일과 시간을 입력해 놓으면\n설정 시간에 맞춰 습관을 권유해 드립니다</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

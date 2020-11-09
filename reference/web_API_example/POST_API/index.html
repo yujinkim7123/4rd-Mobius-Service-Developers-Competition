@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Mobius POST API Example</title>
+</head>
+
+<body>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" type="text/javascript"></script>
+    <h1>Request</h1>
+    <form id="send">
+        <select id="type">
+            <option value='ae'>create ae</option>
+            <option value='cnt'>create cnt</option>
+            <option value='cin'>create cin</option>
+        </select>
+        <input id="url" type="text" value="/Mobius"/>
+        <input id="val" type="text" value="value"/>
+        <input type="submit" value="request"/>
+        <br>
+    </form>
+
+    <h1>Response</h1>
+    <pre id=res></pre>
+    
+    <br>
+    <br>
+
+    <script type="text/javascript" src="simple.js"></script>
+</body>
+
+</html>
